@@ -33,7 +33,7 @@ class MapsFragment : Fragment(), OnMapReadyCallback {
     private var lastKnownMarker: Marker? = null
 
     companion object {
-        private const val LOCATION_PERMISSION_REQUEST_CODE = 1
+        const val LOCATION_PERMISSION_REQUEST_CODE = 1
     }
 
     override fun onCreateView(
