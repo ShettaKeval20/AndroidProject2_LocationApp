@@ -3,3 +3,10 @@ This novel approach grants users the capability to effortlessly share their real
 In summation, the Android project serves as a commendable counterpart to Google Maps, offering an intuitive means to discover nearby places and a novel method to share one's live location via email. Through this endeavor, the app amalgamates location-based functionality with seamless communication, exemplifying the synergy between innovative technology and user-centric design.
 
 This is project is developed by Aakash Patel, Ashika Trambadiya, Keval Shetta and Krushna Joshi
+
+
+
+https://github.com/ShettaKeval20/AndroidProject2_LocationApp/assets/104140354/e8aac23f-1ae2-4d44-9dbd-53b3b1436bfa
+
+
+
